@@ -165,5 +165,5 @@ Released under the [MIT License](LICENSE). Copies or substantial portions must r
 
 ## Author
 
-**Arthur Alves Stefanini**  
+**Arthur Alves Stefanini**
 [GitHub](https://github.com/artloock) · [LinkedIn](https://www.linkedin.com/in/arthur-alves-stefanini-973a99169/)
